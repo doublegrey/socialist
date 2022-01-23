@@ -1,0 +1,16 @@
+/auth/login       POST
+/auth/register    POST
+/auth/logout      GET
+
+/users            GET
+
+/profile          GET
+/profile          PUT
+
+/profile/photo    PUT
+/profile/status   PUT
+/profile/:id      GET
+
+
+/follow/:id       POST
+/follow/:id       DELETE
